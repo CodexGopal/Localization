@@ -1,0 +1,16 @@
+{
+  "app_name": "My App",
+  "welcome": "Welcome",
+  "hello": "Hello",
+  "login": "Login",
+  "logout": "Logout",
+  "settings": "Settings",
+  "home": "Home",
+  "profile": "Profile",
+  "language": "Language",
+  "submit": "Submit",
+  "cancel": "Cancel",
+  "loading": "Loading...",
+  "error_message": "Something went wrong",
+  "success_message": "Operation completed successfully"
+}
