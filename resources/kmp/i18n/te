@@ -1201,5 +1201,7 @@
   "msg_please_enter_supplier_invoice_number": "దయచేసి సప్లయర్ ఇన్‌వాయిస్ నంబర్‌ను ఎంటర్ చేయండి",
   "msg_enter_supplier_invoice_date": "సప్లయర్ ఇన్‌వాయిస్ తేదీని ఎంటర్ చేయండి",
   "msg_selected_party_different_state_format": "ఎంచుకున్న %1$s వేరే రాష్ట్రానికి చెందినది. దయచేసి వివరాలను సరిచూసుకోండి.",
-  "msg_selected_party_same_state_format": "ఎంచుకున్న %1$s మన రాష్ట్రానికే చెందినది. దయచేసి వివరాలను సరిచూసుకోండి."
+  "msg_selected_party_same_state_format": "ఎంచుకున్న %1$s మన రాష్ట్రానికే చెందినది. దయచేసి వివరాలను సరిచూసుకోండి.",
+  "title_hi_there_im_pilloo": "హాయ్! నేను పిల్లోను",
+"subtitle_how_can_i_help_you": "ఈరోజు నేను మీకు ఎలా సహాయం చేయగలను?"
 }
